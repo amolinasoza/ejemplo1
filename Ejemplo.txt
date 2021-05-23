@@ -1,0 +1,23 @@
+Es primera vez que ocupo esta aplicacion.
+
+repository
+GITHUB
+
+para poder subir los proyectos o tareas pendiente 
+en las clases. primero modulo
+
+docente. Ing.Daniel
+
+PrimeraClasegithub
+
+Con ayuda del profesor
+
+AHORA SIII - LISTO
+- Prueba -
+
+Crear Proyuecto en github
+EJEMPLO 1
+
+2- INICIAR PROYECTO LOCALMENTE
+3- COPIAR ARCHIVOS AL PROYECTO LOCAL
+4- AGREGAR REPOSITORIO REMOTO AL LOCAL
